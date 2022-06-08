@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="210541" started-at="2022-06-08T15:46:52 IST" finished-at="2022-06-08T15:50:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="210541" started-at="2022-06-08T15:46:52 IST" finished-at="2022-06-08T15:50:23 IST">
+      <class name="reports.Reports">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:reports.Reports@6ee52dcd]" name="launchBrowser" duration-ms="105738" started-at="2022-06-08T15:46:52 IST" finished-at="2022-06-08T15:48:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:reports.Reports@6ee52dcd]" name="login" duration-ms="1382" started-at="2022-06-08T15:48:38 IST" finished-at="2022-06-08T15:48:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createreport()[pri:2, instance:reports.Reports@6ee52dcd]" name="createreport" duration-ms="103318" started-at="2022-06-08T15:48:40 IST" finished-at="2022-06-08T15:50:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createreport -->
+      </class> <!-- reports.Reports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
